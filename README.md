@@ -2,7 +2,7 @@
 This is a repository where you can find Machine Learning models for authentication of foods. The data was retrieved from: 
 Sitorus, A., Muslih, M., Cebro, I. S., & Bulan, R. (2021). Dataset of adulteration with water in coconut milk using FTIR spectroscopy. Data in Brief, 36, 107058.
 
-The model selection and tuning of hyperparameters, data manipulation, and all testings are foun in `data_and_model_selection.py`. The functions as script are found in `authenticate.py`. The final testing like a "new dataset" is found in `prediction.py`.
+The model selection and tuning of hyperparameters, data manipulation, and all testings are found in `data_and_model_selection.py`. The functions as script are found in `authenticate.py`. The final testing like a "new dataset" is found in `prediction.py`.
 
 ## Data augmentation and selection
 
